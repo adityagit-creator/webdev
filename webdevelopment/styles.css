@@ -1,0 +1,21 @@
+body{
+    background: color #26e2b0;
+}
+h1{
+    color: #66bfbf;
+}
+h3{
+    color: palevioletred;
+    font: size 100px; ;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color: rgb(160, 165, 167);
+    border-width: 5px;
+    width: 5%
+}
+img{
+    background-color: red;
+    height: 200px;
+}
